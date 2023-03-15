@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: "Hack Nerd Mono";
-  src: url("../public/font/HackNerdMono.ttf");
+    font-family: "Hack Nerd Mono";
+    src: url("../public/font/HackNerdMono.ttf");
 }
 
 @font-face {
-  font-family: "Inter";
-  src: url("../public/font/Inter.ttf");
+    font-family: "Inter";
+    src: url("../public/font/Inter.ttf");
 }
