@@ -5,7 +5,7 @@ module.exports = {
         extend: {
             fontFamily: {
                 display: ["Inter", "sans-serif"],
-                hack: ["Hack Nerd Mono", "monospace"],
+                body: ["JetBrains Mono", "monospace"],
             },
             colors: {
                 rosePine: {
