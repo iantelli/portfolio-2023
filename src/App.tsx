@@ -1,8 +1,11 @@
+import HeroText from "./components/HeroText";
+import { useTheme } from "./hooks/useTheme";
+
 function App() {
+    const { theme, handleThemeChange } = useTheme();
     return (
         <>
-            <h1 className={"font-display text-6xl"}>Hello World!</h1>
-            <h1 className={"font-body text-6xl"}>Hello World!</h1>
+            <HeroText />
         </>
     );
 }

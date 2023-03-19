@@ -4,14 +4,12 @@
 
 @layer base {
     @font-face {
-        font-family: 'Inter';
-        src: url("/fonts/Inter.ttf")
+        font-family: "Inter";
+        src: url("/fonts/Inter.ttf");
     }
 
     @font-face {
-        font-family: 'JetBrains Mono';
-        src: url("/fonts/JetBrainsMono.ttf")
+        font-family: "JetBrains Mono";
+        src: url("/fonts/JetBrainsMono.ttf");
     }
 }
-
-
