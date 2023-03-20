@@ -6,7 +6,7 @@ import { useTheme } from "../hooks/useTheme";
 export default function ThemeToggle() {
     const { theme, handleThemeChange } = useTheme();
 
-    const [isToggle, setIsToggle] = useState(theme !== "light");
+    const [isToggle, setIsToggle] = useState(localStorage.getItem("theme") === "dark");
 
     const handleToggle = () => {
         setIsToggle(!isToggle);
