@@ -75,9 +75,11 @@ function App() {
             <Break aniDelay={0.05} />
             <ProjectLarge
                 title={"FFSandbox"}
-                description={"FFSandbox (work in progress) is a raid planning tool for Final Fantasy XIV. Users can create and share their own raid plans with the community. Guides and resources are also available to help users plan their raids."}
+                description={
+                    "FFSandbox (work in progress) is a raid planning tool for Final Fantasy XIV. Users can create and share their own raid plans with the community. Guides and resources are also available to help users plan their raids."
+                }
                 image={"ffsandbox.png"}
-                technologies={["React", "Typescript", "Tailwindcss", "TRPC", "Primsa", "PostgreSQL",]}
+                technologies={["React", "Typescript", "Tailwindcss", "TRPC", "Primsa", "PostgreSQL"]}
                 reverse={false}
                 showIcons={false}
                 aniDelay={0.05}

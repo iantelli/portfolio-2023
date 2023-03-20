@@ -53,22 +53,22 @@ export default function ProjectLarge({
                             </div>
                         </div>
                         {showIcons && (
-                        <div className="flex items-center justify-center lg:items-start lg:justify-start w-full h-full mt-4">
-                            <Icon
-                                newTab
-                                hover
-                                icon={
-                                    <RiGithubFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />
-                                }
-                                link={github!}
-                            />
-                            <Icon
-                                newTab
-                                hover
-                                icon={<RiLink className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
-                                link={website!}
-                            />
-                        </div>
+                            <div className="flex items-center justify-center lg:items-start lg:justify-start w-full h-full mt-4">
+                                <Icon
+                                    newTab
+                                    hover
+                                    icon={
+                                        <RiGithubFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />
+                                    }
+                                    link={github!}
+                                />
+                                <Icon
+                                    newTab
+                                    hover
+                                    icon={<RiLink className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
+                                    link={website!}
+                                />
+                            </div>
                         )}
                     </div>
                     <div
@@ -130,22 +130,22 @@ export default function ProjectLarge({
                             </div>
                         </motion.div>
                         {showIcons && (
-                        <div className="flex items-center justify-center lg:items-end lg:justify-end w-full h-full mt-4">
-                            <Icon
-                                newTab
-                                hover
-                                icon={
-                                    <RiGithubFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />
-                                }
-                                link={github!}
-                            />
-                            <Icon
-                                newTab
-                                hover
-                                icon={<RiLink className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
-                                link={website!}
-                            />
-                        </div>
+                            <div className="flex items-center justify-center lg:items-end lg:justify-end w-full h-full mt-4">
+                                <Icon
+                                    newTab
+                                    hover
+                                    icon={
+                                        <RiGithubFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />
+                                    }
+                                    link={github!}
+                                />
+                                <Icon
+                                    newTab
+                                    hover
+                                    icon={<RiLink className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
+                                    link={website!}
+                                />
+                            </div>
                         )}
                     </div>
                 </motion.div>
