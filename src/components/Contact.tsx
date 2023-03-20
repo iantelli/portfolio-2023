@@ -12,7 +12,7 @@ export default function Contact() {
                     whileInView={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.1, duration: 1 }}
                 >
-                    Contact Me
+                    Wanna reach out?
                 </motion.h1>
                 <motion.h2
                     className="text-xl md:text-2xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
