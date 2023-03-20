@@ -22,20 +22,20 @@ export default function ThemeToggle() {
     return (
         <div
             onClick={handleToggle}
-            className={`flex-start flex h-[50px] w-[100px] rounded-[50px] bg-rosePineDawn-highlightHigh p-[5px] shadow-inner hover:cursor-pointer dark:bg-rosePine-highlightHigh ${
+            className={`flex-start flex h-[25] w-[50px] md:h-[50px] md:w-[100px] rounded-[50px] bg-rosePineDawn-highlightHigh p-[5px] shadow-inner hover:cursor-pointer dark:bg-rosePine-highlightHigh ${
                 isToggle && "place-content-end"
             }`}
         >
             <motion.div
-                className="flex h-[40px] w-[40px] items-center justify-center rounded-full bg-black/90"
+                className="flex h-[20px] w-[20px] md:h-[40px] md:w-[40px] items-center justify-center rounded-full bg-black/90"
                 layout
                 transition={spring}
             >
                 <motion.div whileTap={{ rotate: 360 }}>
                     {isToggle ? (
-                        <RiSunFill className="h-6 w-6 text-rosePine-gold" />
+                        <RiSunFill className="h-3 w-3 md:h-6 md:w-6 text-rosePine-gold" />
                     ) : (
-                        <RiMoonClearFill className="h-6 w-6 text-rosePineDawn-highlightHigh" />
+                        <RiMoonClearFill className="h-3 w-3 md:h-6 md:w-6 text-rosePineDawn-highlightHigh" />
                     )}
                 </motion.div>
             </motion.div>

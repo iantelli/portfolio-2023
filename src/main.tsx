@@ -6,8 +6,8 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
     <React.StrictMode>
+        <Navbar />
         <div className={"container mx-auto px-4 mb-16"}>
-            <Navbar />
             <App />
         </div>
     </React.StrictMode>
