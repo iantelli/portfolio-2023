@@ -8,9 +8,7 @@ export function useTheme() {
         if (theme === "light" || theme === "dark") {
             setTheme(theme);
         } else {
-            const prefersDark = window.matchMedia(
-                "(prefers-color-scheme: dark)"
-            ).matches;
+            const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
             if (prefersDark) {
                 setTheme("dark");
             } else {
