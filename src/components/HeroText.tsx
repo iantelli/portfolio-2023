@@ -57,7 +57,7 @@ export default function HeroText() {
                         icon={<RiDiscordFill className="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam" />}
                     />
                     <Icon
-                        link={"mailto:iantelli@duck.com"}
+                        link={"mailto:iantelli@iantelli.com"}
                         newTab
                         hover
                         icon={<RiMailFill className="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam" />}

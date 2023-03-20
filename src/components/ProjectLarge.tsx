@@ -10,6 +10,7 @@ type ProjectLargeProps = {
     showIcons?: boolean;
     github?: string;
     website?: string;
+    pictureLink?: string;
     aniDelay: number;
     reverse?: boolean;
 };
@@ -23,6 +24,7 @@ export default function ProjectLarge({
     website,
     aniDelay,
     showIcons = true,
+    pictureLink,
     reverse,
 }: ProjectLargeProps) {
     return (
@@ -58,7 +60,7 @@ export default function ProjectLarge({
                                     newTab
                                     hover
                                     icon={
-                                        <RiGithubFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />
+                                        <RiGithubFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam mr-2" />
                                     }
                                     link={github!}
                                 />
@@ -75,7 +77,7 @@ export default function ProjectLarge({
                         className={
                             "flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:ml-4"
                         }
-                        href={github}
+                        href={pictureLink ? pictureLink : github}
                         target="_blank" rel="noreferrer"
                     >
                         <motion.img
@@ -99,7 +101,7 @@ export default function ProjectLarge({
                         className={
                             "flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:mr-4"
                         }
-                        href={github}
+                        href={pictureLink ? pictureLink : github}
                         target="_blank" rel="noreferrer"
                     >
                         <motion.img
@@ -146,7 +148,7 @@ export default function ProjectLarge({
                                 <Icon
                                     newTab
                                     hover
-                                    icon={<RiLink className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
+                                    icon={<RiLink className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam ml-2" />}
                                     link={website!}
                                 />
                             </div>

@@ -34,6 +34,7 @@ function App() {
                 technologies={["Next.js", "Typescript", "Tailwindcss", "Redis", "OpenAI", "GPT-3.5", "Rosepine"]}
                 github={"https://github.com/InterviewPal/InterviewPal"}
                 website={"https://interviewpal.vercel.app/"}
+                pictureLink={"https://interviewpal.vercel.app/"}
                 reverse
                 aniDelay={0.05}
             />
@@ -56,6 +57,7 @@ function App() {
                 ]}
                 github={"https://github.com/IGAQ/NextApp"}
                 website={"https://www.igaq.gay/"}
+                pictureLink={"https://www.igaq.gay/"}
                 reverse={false}
                 aniDelay={0.05}
             />

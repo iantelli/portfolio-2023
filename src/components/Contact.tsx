@@ -32,7 +32,7 @@ export default function Contact() {
                 >
                     <Icon
                         icon={<RiMailFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
-                        link={"mailto:iantelli@duck.com"}
+                        link={"mailto:iantelli@iantelli.com"}
                         hover
                         newTab
                     />
