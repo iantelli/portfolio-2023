@@ -38,7 +38,7 @@ export default function HeroText() {
                     transition={{ delay: 0.2, duration: 1 }}
                 >
                     <Icon
-                        link={"https:github.com/iantelli"}
+                        link={"https://github.com/iantelli"}
                         newTab
                         hover
                         icon={<RiGithubFill className="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam" />}
