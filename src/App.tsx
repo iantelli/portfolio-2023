@@ -71,6 +71,7 @@ function App() {
                 technologies={["React", "JavaScript", "Node.js", "Express", "Firebase", "HTML/CSS"]}
                 github={"https://github.com/iantelli/word-gotchu"}
                 website={"https://wordgotchu.herokuapp.com/"}
+                pictureLink={"https://github.com/iantelli/word-gotchu"}
                 reverse
                 aniDelay={0.05}
             />
@@ -83,6 +84,7 @@ function App() {
                 image={"ffsandbox.webp"}
                 technologies={["React", "Typescript", "Tailwindcss", "TRPC", "Primsa", "PostgreSQL"]}
                 reverse={false}
+                pictureLink={"https://github.com/iantelli"}
                 showIcons={false}
                 aniDelay={0.05}
             />
