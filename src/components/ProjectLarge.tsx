@@ -88,7 +88,7 @@ export default function ProjectLarge({
                         <motion.img
                             src={image}
                             alt={title}
-                            className="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 max-w-32 md:max-w-96 rounded-lg shadow-lg"
+                            className="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 w-80 md:w-full rounded-lg shadow-lg"
                             initial={{ scale: 1 }}
                             whileHover={{ scale: 1.05, transition: { duration: 0.1 } }}
                         />
@@ -113,7 +113,7 @@ export default function ProjectLarge({
                         <motion.img
                             src={image}
                             alt={title}
-                            className="lg:grayscale lg:hover:grayscale-0 lg:transition max-w-32 md:max-w-96 lg:duration-200 rounded-lg shadow-lg"
+                            className="lg:grayscale lg:hover:grayscale-0 lg:transition w-80 md:w-full lg:duration-200 rounded-lg shadow-lg"
                             initial={{ scale: 1 }}
                             whileHover={{ scale: 1.05, transition: { duration: 0.1 } }}
                         />
