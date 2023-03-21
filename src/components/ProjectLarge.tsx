@@ -31,7 +31,9 @@ export default function ProjectLarge({
         <>
             {reverse ? (
                 <motion.div
-                    className={"flex flex-wrap-reverse lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"}
+                    className={
+                        "flex flex-wrap-reverse lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+                    }
                     initial={{ opacity: 0, y: 50 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     viewport={{ once: true }}
@@ -62,12 +64,14 @@ export default function ProjectLarge({
                                     icon={
                                         <RiGithubFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam mr-2" />
                                     }
+                                    aria={`link to ${title} github`}
                                     link={github!}
                                 />
                                 <Icon
                                     newTab
                                     hover
                                     icon={<RiLink className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
+                                    aria={`link to ${title} live website`}
                                     link={website!}
                                 />
                             </div>
@@ -78,12 +82,13 @@ export default function ProjectLarge({
                             "flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:ml-4"
                         }
                         href={pictureLink ? pictureLink : github}
-                        target="_blank" rel="noreferrer"
+                        target="_blank"
+                        rel="noreferrer"
                     >
                         <motion.img
                             src={image}
                             alt={title}
-                            className="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 rounded-lg shadow-lg"
+                            className="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 max-w-full max-h-full rounded-lg shadow-lg"
                             initial={{ scale: 1 }}
                             whileHover={{ scale: 1.05, transition: { duration: 0.1 } }}
                         />
@@ -102,12 +107,13 @@ export default function ProjectLarge({
                             "flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:mr-4"
                         }
                         href={pictureLink ? pictureLink : github}
-                        target="_blank" rel="noreferrer"
+                        target="_blank"
+                        rel="noreferrer"
                     >
                         <motion.img
                             src={image}
                             alt={title}
-                            className="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 rounded-lg shadow-lg"
+                            className="lg:grayscale lg:hover:grayscale-0 lg:transition max-w-full max-h-full lg:duration-200 rounded-lg shadow-lg"
                             initial={{ scale: 1 }}
                             whileHover={{ scale: 1.05, transition: { duration: 0.1 } }}
                         />
@@ -143,12 +149,16 @@ export default function ProjectLarge({
                                     icon={
                                         <RiGithubFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />
                                     }
+                                    aria={`link to ${title} github`}
                                     link={github!}
                                 />
                                 <Icon
                                     newTab
                                     hover
-                                    icon={<RiLink className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam ml-2" />}
+                                    icon={
+                                        <RiLink className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam ml-2" />
+                                    }
+                                    aria={`link to ${title} website`}
                                     link={website!}
                                 />
                             </div>

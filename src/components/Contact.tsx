@@ -34,24 +34,28 @@ export default function Contact() {
                         icon={<RiMailFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
                         link={"mailto:iantelli@iantelli.com"}
                         hover
+                        aria={"link to iantelli mail"}
                         newTab
                     />
                     <Icon
                         icon={<RiLinkedinFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
                         link={"https://www.linkedin.com/in/ian-chao/"}
                         hover
+                        aria={"link to iantelli linkedin"}
                         newTab
                     />
                     <Icon
                         icon={<RiDiscordFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
                         link={"https://discord.com/users/155481915036532736"}
                         hover
+                        aria={"link to iantelli discord"}
                         newTab
                     />
                     <Icon
                         icon={<RiGithubFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}
                         link={"https://www.github.com/iantelli"}
                         hover
+                        aria={"link to iantelli github"}
                         newTab
                     />
                 </motion.div>

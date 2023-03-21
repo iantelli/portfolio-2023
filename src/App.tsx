@@ -30,7 +30,7 @@ function App() {
                 description={
                     "InterviewPal is a GPT-3.5 powered AI that helps you practice for your interviews. It will ask you common and relevant interview questions and give you insightful feedback on your answers."
                 }
-                image={"InterviewPal.png"}
+                image={"InterviewPal.webp"}
                 technologies={["Next.js", "Typescript", "Tailwindcss", "Redis", "OpenAI", "GPT-3.5", "Rosepine"]}
                 github={"https://github.com/InterviewPal/InterviewPal"}
                 website={"https://interviewpal.vercel.app/"}
@@ -44,7 +44,7 @@ function App() {
                 description={
                     "I Got A Queery (IGAQ) provides a safe space for the members of the LGBTQ+ community to ask questions, share stories, and read resources about all things LGBTQ+."
                 }
-                image={"IGAQ.png"}
+                image={"IGAQ.webp"}
                 technologies={[
                     "Next.js",
                     "Nest",
@@ -67,7 +67,7 @@ function App() {
                 description={
                     "WordGotchu is a Pixel styled web platform game based on Wordle and original characters known as “Gotchus’’ that battle against each other in an arena."
                 }
-                image={"WordGotchu.png"}
+                image={"WordGotchu.webp"}
                 technologies={["React", "JavaScript", "Node.js", "Express", "Firebase", "HTML/CSS"]}
                 github={"https://github.com/iantelli/word-gotchu"}
                 website={"https://wordgotchu.herokuapp.com/"}
@@ -80,7 +80,7 @@ function App() {
                 description={
                     "FFSandbox (work in progress) is a raid planning tool for Final Fantasy XIV. Users can create and share their own raid plans with the community. Guides and resources are also available to help users plan their raids."
                 }
-                image={"ffsandbox.png"}
+                image={"ffsandbox.webp"}
                 technologies={["React", "Typescript", "Tailwindcss", "TRPC", "Primsa", "PostgreSQL"]}
                 reverse={false}
                 showIcons={false}

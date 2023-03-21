@@ -23,7 +23,7 @@ export default function HeroText() {
                     Full-Stack Developer
                 </motion.h2>
                 <motion.div
-                    className="md:text-xl flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+                    className="md:text-xl flex flex-col font-display text-rosePineDawn-text dark:text-rosePine-subtle mt-4"
                     initial={{ opacity: 0, y: 50 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.15, duration: 1 }}
@@ -41,6 +41,7 @@ export default function HeroText() {
                         link={"https://github.com/iantelli"}
                         newTab
                         hover
+                        aria={"link to iantelli github"}
                         icon={<RiGithubFill className="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam" />}
                     />
 
@@ -48,18 +49,21 @@ export default function HeroText() {
                         link={"https://www.linkedin.com/in/ian-chao/"}
                         newTab
                         hover
+                        aria={"link to iantelli linkedin"}
                         icon={<RiLinkedinFill className="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam" />}
                     />
                     <Icon
                         link={"https://discord.com/users/155481915036532736"}
                         newTab
                         hover
+                        aria={"link to iantelli discord"}
                         icon={<RiDiscordFill className="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam" />}
                     />
                     <Icon
                         link={"mailto:iantelli@iantelli.com"}
                         newTab
                         hover
+                        aria={"link to iantelli email"}
                         icon={<RiMailFill className="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam" />}
                     />
                 </motion.div>
@@ -67,8 +71,8 @@ export default function HeroText() {
             <div className="flex justify-center lg:justify-end w-full h-full">
                 <motion.img
                     className="rounded-full w-64 h-64 md:w-96 md:h-96 shadow-lg shadow-rosePineDawn-love dark:shadow-rosePine-foam"
-                    src="profile.jpg"
-                    alt="Iantelli"
+                    src="profile.webp"
+                    alt="Iantelli profile picture"
                     initial={{ opacity: 0, y: 50 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: 0.2, duration: 1 }}

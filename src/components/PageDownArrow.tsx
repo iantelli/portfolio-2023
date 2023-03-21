@@ -12,6 +12,7 @@ export default function PageDownArrow() {
         >
             <motion.div animate={{ y: [0, 10, 0] }} transition={{ repeat: Infinity, duration: 1.5 }}>
                 <Icon
+                    aria={"View project showcase"}
                     link={"#projects"}
                     icon={<RiArrowDropDownLine className="h-24 w-24 text-rosePineDawn-love dark:text-rosePine-foam" />}
                 />
