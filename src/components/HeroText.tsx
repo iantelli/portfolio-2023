@@ -70,7 +70,7 @@ export default function HeroText() {
             </div>
             <div className="flex justify-center lg:justify-end w-full h-full">
                 <motion.img
-                    className="rounded-full w-48 h-48 md:w-96 md:h-96 shadow-lg shadow-rosePineDawn-love dark:shadow-rosePine-foam"
+                    className="rounded-full w-60 md:w-96 shadow-lg shadow-rosePineDawn-love dark:shadow-rosePine-foam"
                     src="profile.webp"
                     alt="Iantelli profile picture"
                     initial={{ opacity: 0, y: 50 }}
