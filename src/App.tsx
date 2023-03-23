@@ -70,8 +70,8 @@ function App() {
                 image={"WordGotchu.webp"}
                 technologies={["React", "JavaScript", "Node.js", "Express", "Firebase", "HTML/CSS"]}
                 github={"https://github.com/iantelli/word-gotchu"}
-                website={"https://wordgotchu.herokuapp.com/"}
-                pictureLink={"https://github.com/iantelli/word-gotchu"}
+                website={"https://word-gotchu.up.railway.app""}
+                pictureLink={"https://word-gotchu.up.railway.app""}
                 reverse
                 aniDelay={0.05}
             />
