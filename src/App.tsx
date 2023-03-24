@@ -65,7 +65,7 @@ function App() {
             <ProjectLarge
                 title={"WordGotchu"}
                 description={
-                    "WordGotchu is a Pixel styled web platform game based on Wordle and original characters known as “Gotchus’’ that battle against each other in an arena."
+                    "WordGotchu is a Pixel styled multiplayer web platform game based on Wordle and original characters known as “Gotchus’’ that battle against each other in an arena."
                 }
                 image={"WordGotchu.webp"}
                 technologies={["React", "JavaScript", "Node.js", "Express", "Firebase", "HTML/CSS"]}
