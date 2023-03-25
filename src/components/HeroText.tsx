@@ -10,7 +10,7 @@ export default function HeroText() {
                     className="text-4xl md:text-6xl font-bold font-display mb-4"
                     initial={{ opacity: 0, y: 50 }}
                     animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.05, duration: 1 }}
+                    transition={{ delay: 0.05, duration: 0.5 }}
                 >
                     Hello, I'm <span className={"text-rosePineDawn-love dark:text-rosePine-foam"}> Ian.</span>
                 </motion.h1>
@@ -18,7 +18,7 @@ export default function HeroText() {
                     className="text-2xl md:text-4xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
                     initial={{ opacity: 0, y: 50 }}
                     animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.1, duration: 1 }}
+                    transition={{ delay: 0.1, duration: 0.5 }}
                 >
                     Full-Stack Developer
                 </motion.h2>
@@ -26,7 +26,7 @@ export default function HeroText() {
                     className="md:text-xl flex flex-col font-display text-rosePineDawn-text dark:text-rosePine-subtle mt-4"
                     initial={{ opacity: 0, y: 50 }}
                     animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.15, duration: 1 }}
+                    transition={{ delay: 0.15, duration: 0.5 }}
                 >
                     I am a passionate developer based in Surrey BC, Canada. My expertise lies in developing robust and
                     scalable web applications that deliver a smooth user experience.
@@ -35,7 +35,7 @@ export default function HeroText() {
                     className="flex mt-4 space-x-4"
                     initial={{ opacity: 0, y: 50 }}
                     animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.2, duration: 1 }}
+                    transition={{ delay: 0.2, duration: 0.5 }}
                 >
                     <Icon
                         link={"https://github.com/iantelli"}
@@ -75,7 +75,7 @@ export default function HeroText() {
                     alt="Iantelli profile picture"
                     initial={{ opacity: 0, y: 50 }}
                     animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.2, duration: 1 }}
+                    transition={{ delay: 0.2, duration: 0.5 }}
                 />
             </div>
         </div>

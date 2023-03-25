@@ -20,11 +20,11 @@ function App() {
                 initial={{ opacity: 0, y: 50 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
-                transition={{ delay: 0.05, duration: 1 }}
+                transition={{ delay: 0, duration: 1 }}
             >
                 Project Showcase
             </motion.h1>
-            <Break aniDelay={0.05} />
+            <Break aniDelay={0} />
             <ProjectLarge
                 title={"InterviewPal"}
                 description={
@@ -36,9 +36,9 @@ function App() {
                 website={"https://interviewpal.vercel.app/"}
                 pictureLink={"https://interviewpal.vercel.app/"}
                 reverse
-                aniDelay={0.05}
+                aniDelay={0}
             />
-            <Break aniDelay={0.05} />
+            <Break aniDelay={0} />
             <ProjectLarge
                 title={"IGAQ"}
                 description={
@@ -59,9 +59,9 @@ function App() {
                 website={"https://www.igaq.gay/"}
                 pictureLink={"https://www.igaq.gay/"}
                 reverse={false}
-                aniDelay={0.05}
+                aniDelay={0}
             />
-            <Break aniDelay={0.05} />
+            <Break aniDelay={0} />
             <ProjectLarge
                 title={"WordGotchu"}
                 description={
@@ -73,9 +73,9 @@ function App() {
                 website={"https://word-gotchu.up.railway.app"}
                 pictureLink={"https://word-gotchu.up.railway.app"}
                 reverse
-                aniDelay={0.05}
+                aniDelay={0}
             />
-            <Break aniDelay={0.05} />
+            <Break aniDelay={0} />
             <ProjectLarge
                 title={"FFSandbox"}
                 description={
@@ -86,9 +86,9 @@ function App() {
                 reverse={false}
                 pictureLink={"https://github.com/iantelli"}
                 showIcons={false}
-                aniDelay={0.05}
+                aniDelay={0}
             />
-            <Break aniDelay={0.05} />
+            <Break aniDelay={0} />
             <Contact />
         </>
     );

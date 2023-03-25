@@ -10,7 +10,7 @@ export default function Contact() {
                     className="text-2xl md:text-4xl font-bold font-display mb-4"
                     initial={{ opacity: 0, y: 50 }}
                     whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.1, duration: 1 }}
+                    transition={{ delay: 0.1, duration: 0.5 }}
                 >
                     Wanna reach out?
                 </motion.h1>
@@ -18,7 +18,7 @@ export default function Contact() {
                     className="text-xl md:text-2xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
                     initial={{ opacity: 0, y: 50 }}
                     whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.15, duration: 1 }}
+                    transition={{ delay: 0.15, duration: 0.5 }}
                 >
                     If you have a project you'd like to discuss or simply want to say hello, feel free to reach out to
                     me at any platform listed below. I'm always interested in meeting new people and exploring exciting
@@ -28,7 +28,7 @@ export default function Contact() {
                     className="flex mt-4 space-x-4"
                     initial={{ opacity: 0, y: 50 }}
                     whileInView={{ opacity: 1, y: 0 }}
-                    transition={{ delay: 0.2, duration: 1 }}
+                    transition={{ delay: 0.2, duration: 0.5 }}
                 >
                     <Icon
                         icon={<RiMailFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />}

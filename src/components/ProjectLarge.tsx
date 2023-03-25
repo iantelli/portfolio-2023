@@ -37,7 +37,7 @@ export default function ProjectLarge({
                     initial={{ opacity: 0, y: 50 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     viewport={{ once: true }}
-                    transition={{ delay: aniDelay, duration: 1 }}
+                    transition={{ delay: aniDelay, duration: 0.5 }}
                 >
                     <div className="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start">
                         <h1 className="text-2xl lg:text-4xl font-bold font-display mb-4">{title}</h1>
@@ -100,7 +100,7 @@ export default function ProjectLarge({
                     initial={{ opacity: 0, y: 50 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     viewport={{ once: true }}
-                    transition={{ delay: aniDelay, duration: 1 }}
+                    transition={{ delay: aniDelay, duration: 0.5 }}
                 >
                     <a
                         className={
@@ -128,7 +128,7 @@ export default function ProjectLarge({
                             initial={{ opacity: 0, y: 50 }}
                             whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true }}
-                            transition={{ delay: aniDelay, duration: 1 }}
+                            transition={{ delay: aniDelay, duration: 0.5 }}
                         >
                             <div className="flex flex-wrap justify-center lg:justify-end">
                                 {technologies.map((technology) => (
