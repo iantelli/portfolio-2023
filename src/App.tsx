@@ -77,13 +77,27 @@ function App() {
             />
             <Break aniDelay={0} />
             <ProjectLarge
+                title={"RainCheck"}
+                description={
+                    "RainCheck is an interactive map web app that provide insights on the Vancouver housing market and lets you know how long it would take you to afford one. Created for BCIT QDS 2023 Hackathon."
+                }
+                image={"Raincheck.webp"}
+                technologies={["React", "JavaScript", "Next.js", "Leaflet", "Framer-motion"]}
+                github={"https://github.com/null-name-qds/hackathon"}
+                website={"https://qds-raincheck.vercel.app/welcome"}
+                pictureLink={"https://qds-raincheck.vercel.app/welcome"}
+                reverse={false}
+                aniDelay={0}
+            />
+            <Break aniDelay={0} />
+            <ProjectLarge
                 title={"FFSandbox"}
                 description={
                     "FFSandbox (work in progress) is a raid planning tool for Final Fantasy XIV. Users can create and share their own raid plans with the community. Guides and resources are also available to help users plan their raids."
                 }
                 image={"ffsandbox.webp"}
                 technologies={["React", "Typescript", "Tailwindcss", "TRPC", "Primsa", "PostgreSQL"]}
-                reverse={false}
+                reverse
                 pictureLink={"https://github.com/iantelli"}
                 showIcons={false}
                 aniDelay={0}
