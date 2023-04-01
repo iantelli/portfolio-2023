@@ -32,8 +32,7 @@ export default function HeroText() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.15, duration: 0.5 }}
         >
-          I am a passionate developer based in Surrey BC, Canada. My expertise lies in developing
-          robust and scalable web applications that deliver a smooth user experience.
+          I am an enthusiastic programmer based in Surrey, British Columbia, Canada. My strength is in creating robust and scalable web applications that provide a pleasant user experience. 
         </motion.div>
         <motion.div
           className="flex mt-4 space-x-4"
