@@ -76,7 +76,7 @@ function App() {
           "WordGotchu is a Pixel styled multiplayer web platform game based on Wordle and original characters known as “Gotchus’’ that battle against each other in an arena."
         }
         image={"WordGotchu.webp"}
-        technologies={["React", "JavaScript", "Node.js", "Express", "Firebase", "HTML/CSS"]}
+        technologies={["JavaScript", "Node.js", "Express", "Firebase", "HTML/CSS"]}
         github={"https://github.com/iantelli/word-gotchu"}
         website={"https://word-gotchu.up.railway.app"}
         pictureLink={"https://word-gotchu.up.railway.app"}
