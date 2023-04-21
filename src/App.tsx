@@ -64,8 +64,8 @@ function App() {
           "Mantine",
         ]}
         github={"https://github.com/IGAQ/NextApp"}
-        website={"https://www.igaq.gay/"}
-        pictureLink={"https://www.igaq.gay/"}
+        website={"https://www.igaq.gay/homepage"}
+        pictureLink={"https://www.igaq.gay/homepage"}
         reverse={false}
         aniDelay={0}
       />
