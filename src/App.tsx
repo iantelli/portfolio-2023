@@ -63,7 +63,7 @@ function App() {
           "Styled Components",
           "Mantine",
         ]}
-        github={"https://github.com/IGAQ/NextApp"}
+        github={"https://github.com/IGAQ"}
         website={"https://www.igaq.gay/homepage"}
         pictureLink={"https://www.igaq.gay/homepage"}
         reverse={false}
