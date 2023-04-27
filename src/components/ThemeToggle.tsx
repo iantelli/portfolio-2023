@@ -1,12 +1,16 @@
 import { motion } from "framer-motion";
-import React, { useState } from "react";
+import { useState, useEffect } from "react";
 import { RiMoonClearFill, RiSunFill } from "react-icons/ri";
 import { useTheme } from "../hooks/useTheme";
 
 export default function ThemeToggle() {
   const { theme, handleThemeChange } = useTheme();
 
-  const [isToggle, setIsToggle] = useState(localStorage.getItem("theme") === "dark");
+  const [isToggle, setIsToggle] = useState(theme === "dark");
+
+  useEffect(() => {
+    setIsToggle(theme === "dark");
+  }, [theme]);
 
   const handleToggle = () => {
     setIsToggle(!isToggle);

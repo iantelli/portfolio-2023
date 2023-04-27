@@ -22,7 +22,6 @@ export default function ProjectLarge({
   technologies,
   github,
   website,
-  aniDelay,
   showIcons = true,
   pictureLink,
   reverse,
@@ -37,7 +36,7 @@ export default function ProjectLarge({
           initial={{ opacity: 0, y: 50 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          transition={{ delay: aniDelay, duration: 0.5 }}
+          transition={{ duration: 0.5 }}
         >
           <div className="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start">
             <h1 className="text-2xl lg:text-4xl font-bold font-display mb-4">{title}</h1>
@@ -104,7 +103,7 @@ export default function ProjectLarge({
           initial={{ opacity: 0, y: 50 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          transition={{ delay: aniDelay, duration: 0.5 }}
+          transition={{ duration: 0.5 }}
         >
           <a
             className={
@@ -127,13 +126,8 @@ export default function ProjectLarge({
             <h2 className="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display">
               {description}
             </h2>
-            <motion.div
-              className="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
-              initial={{ opacity: 0, y: 50 }}
-              whileInView={{ opacity: 1, y: 0 }}
-              viewport={{ once: true }}
-              transition={{ delay: aniDelay, duration: 0.5 }}
-            >
+            <div
+              className="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4">
               <div className="flex flex-wrap justify-center lg:justify-end">
                 {technologies.map((technology) => (
                   <div
@@ -144,7 +138,7 @@ export default function ProjectLarge({
                   </div>
                 ))}
               </div>
-            </motion.div>
+            </div>
             {showIcons && (
               <div className="flex items-center justify-center lg:items-start lg:justify-end w-full h-full mt-4">
                 <Icon

@@ -1,13 +1,11 @@
 import HeroText from "./components/HeroText";
 import PageDownArrow from "./components/PageDownArrow";
-import { useTheme } from "./hooks/useTheme";
 import Break from "./components/Break";
 import ProjectLarge from "./components/ProjectLarge";
 import Contact from "./components/Contact";
 import { motion } from "framer-motion";
 
 function App() {
-  const { theme, handleThemeChange } = useTheme();
   return (
     <>
       <HeroText />
