@@ -125,8 +125,7 @@ export default function ProjectLarge({
             <h2 className="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display">
               {description}
             </h2>
-            <div
-              className="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4">
+            <div className="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4">
               <div className="flex flex-wrap justify-center lg:justify-end">
                 {technologies.map((technology) => (
                   <div
