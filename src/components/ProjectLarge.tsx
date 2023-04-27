@@ -11,7 +11,6 @@ type ProjectLargeProps = {
   github?: string;
   website?: string;
   pictureLink?: string;
-  aniDelay: number;
   reverse?: boolean;
 };
 

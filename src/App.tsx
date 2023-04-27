@@ -22,7 +22,7 @@ function App() {
       >
         Project Showcase
       </motion.h1>
-      <Break aniDelay={0} />
+      <Break />
       <ProjectLarge
         title={"InterviewPal"}
         description={
@@ -42,9 +42,8 @@ function App() {
         website={"https://interviewpal.vercel.app/"}
         pictureLink={"https://interviewpal.vercel.app/"}
         reverse
-        aniDelay={0}
       />
-      <Break aniDelay={0} />
+      <Break />
       <ProjectLarge
         title={"IGAQ"}
         description={
@@ -65,9 +64,8 @@ function App() {
         website={"https://www.igaq.gay/homepage"}
         pictureLink={"https://www.igaq.gay/homepage"}
         reverse={false}
-        aniDelay={0}
       />
-      <Break aniDelay={0} />
+      <Break />
       <ProjectLarge
         title={"WordGotchu"}
         description={
@@ -79,9 +77,8 @@ function App() {
         website={"https://word-gotchu.up.railway.app"}
         pictureLink={"https://word-gotchu.up.railway.app"}
         reverse
-        aniDelay={0}
       />
-      <Break aniDelay={0} />
+      <Break />
       <ProjectLarge
         title={"RainCheck"}
         description={
@@ -93,9 +90,8 @@ function App() {
         website={"https://qds-raincheck.vercel.app/welcome"}
         pictureLink={"https://qds-raincheck.vercel.app/welcome"}
         reverse={false}
-        aniDelay={0}
       />
-      <Break aniDelay={0} />
+      <Break />
       <ProjectLarge
         title={"FFSandbox"}
         description={
@@ -106,9 +102,8 @@ function App() {
         reverse
         pictureLink={"https://github.com/iantelli"}
         showIcons={false}
-        aniDelay={0}
       />
-      <Break aniDelay={0} />
+      <Break />
       <Contact />
     </>
   );
