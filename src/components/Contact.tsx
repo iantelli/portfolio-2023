@@ -43,15 +43,6 @@ export default function Contact() {
           />
           <Icon
             icon={
-              <RiLinkedinFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />
-            }
-            link={"https://www.linkedin.com/in/ian-chao/"}
-            hover
-            aria={"link to iantelli linkedin"}
-            newTab
-          />
-          <Icon
-            icon={
               <RiDiscordFill className="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam" />
             }
             link={"https://discord.com/users/155481915036532736"}

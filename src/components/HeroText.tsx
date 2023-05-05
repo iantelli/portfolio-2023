@@ -50,16 +50,6 @@ export default function HeroText() {
               <RiGithubFill className="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam" />
             }
           />
-
-          <Icon
-            link={"https://www.linkedin.com/in/ian-chao/"}
-            newTab
-            hover
-            aria={"link to iantelli linkedin"}
-            icon={
-              <RiLinkedinFill className="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam" />
-            }
-          />
           <Icon
             link={"https://discord.com/users/155481915036532736"}
             newTab
