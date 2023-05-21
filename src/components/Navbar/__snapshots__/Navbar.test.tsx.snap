@@ -1,0 +1,174 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Navbar > renders Navbar component 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="flex sticky top-0 justify-between items-center px-4 py-2 lg:px-24  bg-rosePineDawn-base dark:bg-rosePine-base z-50"
+      >
+        <div
+          class="flex items-center"
+        >
+          <h1
+            class="text-2xl md:text-4xl font-bold font-display text-rosePineDawn-subtle dark:text-rosePine-subtle"
+          >
+            <a
+              class="text-rosePineDawn-love dark:text-rosePine-foam"
+              href="#"
+            >
+              Iantelli
+               
+            </a>
+          </h1>
+        </div>
+        <div
+          class="flex items-center"
+        >
+          <div
+            class="flex-start flex h-[25] w-[50px] md:h-[50px] md:w-[100px] rounded-[50px] bg-rosePineDawn-highlightHigh p-[5px] shadow-inner hover:cursor-pointer dark:bg-rosePine-highlightHigh false"
+          >
+            <div
+              class="flex h-[20px] w-[20px] md:h-[40px] md:w-[40px] items-center justify-center rounded-full bg-black/90"
+            >
+              <div
+                tabindex="0"
+              >
+                <svg
+                  class="h-3 w-3 md:h-6 md:w-6 text-rosePineDawn-highlightHigh"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M9.822 2.238a9 9 0 0 0 11.94 11.94C20.768 18.654 16.775 22 12 22 6.477 22 2 17.523 2 12c0-4.775 3.346-8.768 7.822-9.762zm8.342.053L19 2.5v1l-.836.209a2 2 0 0 0-1.455 1.455L16.5 6h-1l-.209-.836a2 2 0 0 0-1.455-1.455L13 3.5v-1l.836-.209A2 2 0 0 0 15.29.836L15.5 0h1l.209.836a2 2 0 0 0 1.455 1.455zm5 5L24 7.5v1l-.836.209a2 2 0 0 0-1.455 1.455L21.5 11h-1l-.209-.836a2 2 0 0 0-1.455-1.455L18 8.5v-1l.836-.209a2 2 0 0 0 1.455-1.455L20.5 5h1l.209.836a2 2 0 0 0 1.455 1.455z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="flex sticky top-0 justify-between items-center px-4 py-2 lg:px-24  bg-rosePineDawn-base dark:bg-rosePine-base z-50"
+    >
+      <div
+        class="flex items-center"
+      >
+        <h1
+          class="text-2xl md:text-4xl font-bold font-display text-rosePineDawn-subtle dark:text-rosePine-subtle"
+        >
+          <a
+            class="text-rosePineDawn-love dark:text-rosePine-foam"
+            href="#"
+          >
+            Iantelli
+             
+          </a>
+        </h1>
+      </div>
+      <div
+        class="flex items-center"
+      >
+        <div
+          class="flex-start flex h-[25] w-[50px] md:h-[50px] md:w-[100px] rounded-[50px] bg-rosePineDawn-highlightHigh p-[5px] shadow-inner hover:cursor-pointer dark:bg-rosePine-highlightHigh false"
+        >
+          <div
+            class="flex h-[20px] w-[20px] md:h-[40px] md:w-[40px] items-center justify-center rounded-full bg-black/90"
+          >
+            <div
+              tabindex="0"
+            >
+              <svg
+                class="h-3 w-3 md:h-6 md:w-6 text-rosePineDawn-highlightHigh"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g>
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                  />
+                  <path
+                    d="M9.822 2.238a9 9 0 0 0 11.94 11.94C20.768 18.654 16.775 22 12 22 6.477 22 2 17.523 2 12c0-4.775 3.346-8.768 7.822-9.762zm8.342.053L19 2.5v1l-.836.209a2 2 0 0 0-1.455 1.455L16.5 6h-1l-.209-.836a2 2 0 0 0-1.455-1.455L13 3.5v-1l.836-.209A2 2 0 0 0 15.29.836L15.5 0h1l.209.836a2 2 0 0 0 1.455 1.455zm5 5L24 7.5v1l-.836.209a2 2 0 0 0-1.455 1.455L21.5 11h-1l-.209-.836a2 2 0 0 0-1.455-1.455L18 8.5v-1l.836-.209a2 2 0 0 0 1.455-1.455L20.5 5h1l.209.836a2 2 0 0 0 1.455 1.455z"
+                  />
+                </g>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
