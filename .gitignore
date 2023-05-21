@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Snapshots
-*/__snapshots__/
+__snapshots__/
