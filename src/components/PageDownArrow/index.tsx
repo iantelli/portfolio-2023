@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Icon from "./Icon";
+import Icon from "../Icon";
 import { RiArrowDropDownLine } from "react-icons/ri";
 
 export default function PageDownArrow() {

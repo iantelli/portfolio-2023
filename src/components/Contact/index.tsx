@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
-import Icon from "./Icon";
-import { RiGithubFill, RiLinkedinFill, RiMailFill, RiDiscordFill } from "react-icons/ri";
+import Icon from "../Icon";
+import { RiGithubFill, RiMailFill, RiDiscordFill } from "react-icons/ri";
 
-export default function Contact() {
+export default function Contact(): JSX.Element {
   return (
     <div
       className={

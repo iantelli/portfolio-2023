@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 import { RiMoonClearFill, RiSunFill } from "react-icons/ri";
-import { useTheme } from "../hooks/useTheme";
+import { useTheme } from "../../hooks/useTheme";
 
 export default function ThemeToggle() {
   const { theme, handleThemeChange } = useTheme();

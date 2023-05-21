@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Icon from "./Icon";
+import Icon from "../Icon";
 import { RiGithubFill, RiLink } from "react-icons/ri";
 
 type ProjectLargeProps = {
