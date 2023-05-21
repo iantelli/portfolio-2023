@@ -1,0 +1,2058 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Portfolio > renders Portfolio component 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="flex flex-wrap lg:flex-nowrap justify-between items-center md:mx-24 mt-14 md:mt-48"
+      >
+        <div
+          class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start w-full h-full mb-4"
+        >
+          <h1
+            class="text-4xl md:text-6xl font-bold font-display mb-4"
+            style="opacity: 0; transform: translateY(50px) translateZ(0);"
+          >
+            Hello, I'm 
+            <span
+              class="text-rosePineDawn-love dark:text-rosePine-foam"
+            >
+               Ian.
+            </span>
+          </h1>
+          <h2
+            class="text-2xl md:text-4xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+            style="opacity: 0; transform: translateY(50px) translateZ(0);"
+          >
+            Full-Stack Developer
+          </h2>
+          <div
+            class="md:text-xl flex flex-col font-display text-rosePineDawn-text dark:text-rosePine-subtle mt-4"
+            style="opacity: 0; transform: translateY(50px) translateZ(0);"
+          >
+            I am an enthusiastic programmer based in Surrey, British Columbia, Canada. My strength is in creating robust and scalable web applications that provide a pleasant user experience.
+          </div>
+          <div
+            class="flex mt-4 space-x-4"
+            style="opacity: 0; transform: translateY(50px) translateZ(0);"
+          >
+            <a
+              aria-label="link to iantelli github"
+              href="https://github.com/iantelli"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+            <a
+              aria-label="link to iantelli discord"
+              href="https://discord.com/users/155481915036532736"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M10.076 11c.6 0 1.086.45 1.075 1 0 .55-.474 1-1.075 1C9.486 13 9 12.55 9 12s.475-1 1.076-1zm3.848 0c.601 0 1.076.45 1.076 1s-.475 1-1.076 1c-.59 0-1.075-.45-1.075-1s.474-1 1.075-1zm4.967-9C20.054 2 21 2.966 21 4.163V23l-2.211-1.995-1.245-1.176-1.317-1.25.546 1.943H5.109C3.946 20.522 3 19.556 3 18.359V4.163C3 2.966 3.946 2 5.109 2H18.89zm-3.97 13.713c2.273-.073 3.148-1.596 3.148-1.596 0-3.381-1.482-6.122-1.482-6.122-1.48-1.133-2.89-1.102-2.89-1.102l-.144.168c1.749.546 2.561 1.334 2.561 1.334a8.263 8.263 0 0 0-3.096-1.008 8.527 8.527 0 0 0-2.077.02c-.062 0-.114.011-.175.021-.36.032-1.235.168-2.335.662-.38.178-.607.305-.607.305s.854-.83 2.705-1.376l-.103-.126s-1.409-.031-2.89 1.103c0 0-1.481 2.74-1.481 6.121 0 0 .864 1.522 3.137 1.596 0 0 .38-.472.69-.871-1.307-.4-1.8-1.24-1.8-1.24s.102.074.287.179c.01.01.02.021.041.031.031.022.062.032.093.053.257.147.514.262.75.357.422.168.926.336 1.513.452a7.06 7.06 0 0 0 2.664.01 6.666 6.666 0 0 0 1.491-.451c.36-.137.761-.337 1.183-.62 0 0-.514.861-1.862 1.25.309.399.68.85.68.85z"
+                        fill-rule="nonzero"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+            <a
+              aria-label="link to iantelli email"
+              href="mailto:iantelli@iantelli.com"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm9.06 8.683L5.648 6.238 4.353 7.762l7.72 6.555 7.581-6.56-1.308-1.513-6.285 5.439z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div
+          class="flex justify-center lg:justify-end w-full h-full"
+        >
+          <img
+            alt="Iantelli profile picture"
+            class="rounded-full w-60 md:w-96 shadow-lg shadow-rosePineDawn-love dark:shadow-rosePine-foam"
+            src="profile.webp"
+            style="opacity: 0; transform: translateY(50px) translateZ(0);"
+          />
+        </div>
+      </div>
+      <div
+        class="flex justify-center items-center w-full h-full mt-12 md:mt-24"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <div>
+          <a
+            aria-label="link to project showcase"
+            href="#projects"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <svg
+                class="h-24 w-24 text-rosePineDawn-love dark:text-rosePine-foam"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <g>
+                  <path
+                    d="M0 0h24v24H0z"
+                    fill="none"
+                  />
+                  <path
+                    d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z"
+                  />
+                </g>
+              </svg>
+            </div>
+          </a>
+        </div>
+      </div>
+      <h1
+        class="flex justify-center items-center text-2xl md:text-4xl font-bold font-display mt-16 md:mt-64 text-rosePineDawn-love dark:text-rosePine-foam"
+        id="projects"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        Project Showcase
+      </h1>
+      <div
+        class="flex justify-center items-center text-center"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <hr
+          class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+        />
+      </div>
+      <div
+        class="flex flex-wrap-reverse lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <div
+          class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start"
+        >
+          <h1
+            class="text-2xl lg:text-4xl font-bold font-display mb-4"
+          >
+            InterviewPal
+          </h1>
+          <h2
+            class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+          >
+            InterviewPal is a GPT-3.5 powered AI that helps you practice for your interviews. It will ask you common and relevant interview questions and give you insightful feedback on your answers.
+          </h2>
+          <div
+            class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+          >
+            <div
+              class="flex flex-wrap justify-center lg:justify-start"
+            >
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Next.js
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Typescript
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Tailwindcss
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Redis
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                OpenAI
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                GPT-3.5
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Rosepine
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center lg:items-start lg:justify-start w-full h-full mt-4"
+          >
+            <a
+              aria-label="link to InterviewPal github"
+              href="https://github.com/InterviewPal/InterviewPal"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam mr-2"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+            <a
+              aria-label="link to InterviewPal live website"
+              href="https://interviewpal.vercel.app/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M18.364 15.536L16.95 14.12l1.414-1.414a5 5 0 1 0-7.071-7.071L9.879 7.05 8.464 5.636 9.88 4.222a7 7 0 0 1 9.9 9.9l-1.415 1.414zm-2.828 2.828l-1.415 1.414a7 7 0 0 1-9.9-9.9l1.415-1.414L7.05 9.88l-1.414 1.414a5 5 0 1 0 7.071 7.071l1.414-1.414 1.415 1.414zm-.708-10.607l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <a
+          class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:ml-4"
+          href="https://interviewpal.vercel.app/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            alt="InterviewPal"
+            class="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 min-w-40 md:w-full rounded-lg shadow-lg"
+            src="InterviewPal.webp"
+            style="transform: none;"
+          />
+        </a>
+      </div>
+      <div
+        class="flex justify-center items-center text-center"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <hr
+          class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+        />
+      </div>
+      <div
+        class="flex flex-wrap lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <a
+          class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:mr-4"
+          href="https://www.igaq.gay/homepage"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            alt="IGAQ"
+            class="lg:grayscale lg:hover:grayscale-0 lg:transition min-w-40 md:w-full lg:duration-200 rounded-lg shadow-lg"
+            src="IGAQ.webp"
+            style="transform: none;"
+          />
+        </a>
+        <div
+          class="flex flex-col justify-center items-center text-center lg:justify-center lg:items-end lg:text-end"
+        >
+          <h1
+            class="text-2xl lg:text-4xl font-bold font-display mb-4"
+          >
+            IGAQ
+          </h1>
+          <h2
+            class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+          >
+            I Got A Queery (IGAQ) provides a safe space for the members of the LGBTQ+ community to ask questions, share stories, and read resources about all things LGBTQ+.
+          </h2>
+          <div
+            class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+          >
+            <div
+              class="flex flex-wrap justify-center lg:justify-end"
+            >
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Next.js
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Nest
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                JavaScript
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Typescript
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Neo4j
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                React
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Styled Components
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Mantine
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center lg:items-start lg:justify-end w-full h-full mt-4"
+          >
+            <a
+              aria-label="link to IGAQ github"
+              href="https://github.com/IGAQ"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+            <a
+              aria-label="link to IGAQ website"
+              href="https://www.igaq.gay/homepage"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam ml-2"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M18.364 15.536L16.95 14.12l1.414-1.414a5 5 0 1 0-7.071-7.071L9.879 7.05 8.464 5.636 9.88 4.222a7 7 0 0 1 9.9 9.9l-1.415 1.414zm-2.828 2.828l-1.415 1.414a7 7 0 0 1-9.9-9.9l1.415-1.414L7.05 9.88l-1.414 1.414a5 5 0 1 0 7.071 7.071l1.414-1.414 1.415 1.414zm-.708-10.607l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex justify-center items-center text-center"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <hr
+          class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+        />
+      </div>
+      <div
+        class="flex flex-wrap-reverse lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <div
+          class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start"
+        >
+          <h1
+            class="text-2xl lg:text-4xl font-bold font-display mb-4"
+          >
+            WordGotchu
+          </h1>
+          <h2
+            class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+          >
+            WordGotchu is a Pixel styled multiplayer web platform game based on Wordle and original characters known as “Gotchus’’ that battle against each other in an arena.
+          </h2>
+          <div
+            class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+          >
+            <div
+              class="flex flex-wrap justify-center lg:justify-start"
+            >
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                JavaScript
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Node.js
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Express
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Firebase
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                HTML/CSS
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center lg:items-start lg:justify-start w-full h-full mt-4"
+          >
+            <a
+              aria-label="link to WordGotchu github"
+              href="https://github.com/iantelli/word-gotchu"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam mr-2"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+            <a
+              aria-label="link to WordGotchu live website"
+              href="https://word-gotchu.up.railway.app"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M18.364 15.536L16.95 14.12l1.414-1.414a5 5 0 1 0-7.071-7.071L9.879 7.05 8.464 5.636 9.88 4.222a7 7 0 0 1 9.9 9.9l-1.415 1.414zm-2.828 2.828l-1.415 1.414a7 7 0 0 1-9.9-9.9l1.415-1.414L7.05 9.88l-1.414 1.414a5 5 0 1 0 7.071 7.071l1.414-1.414 1.415 1.414zm-.708-10.607l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+        <a
+          class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:ml-4"
+          href="https://word-gotchu.up.railway.app"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            alt="WordGotchu"
+            class="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 min-w-40 md:w-full rounded-lg shadow-lg"
+            src="WordGotchu.webp"
+            style="transform: none;"
+          />
+        </a>
+      </div>
+      <div
+        class="flex justify-center items-center text-center"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <hr
+          class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+        />
+      </div>
+      <div
+        class="flex flex-wrap lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <a
+          class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:mr-4"
+          href="https://qds-raincheck.vercel.app/welcome"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            alt="RainCheck"
+            class="lg:grayscale lg:hover:grayscale-0 lg:transition min-w-40 md:w-full lg:duration-200 rounded-lg shadow-lg"
+            src="Raincheck.webp"
+            style="transform: none;"
+          />
+        </a>
+        <div
+          class="flex flex-col justify-center items-center text-center lg:justify-center lg:items-end lg:text-end"
+        >
+          <h1
+            class="text-2xl lg:text-4xl font-bold font-display mb-4"
+          >
+            RainCheck
+          </h1>
+          <h2
+            class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+          >
+            RainCheck is an interactive map web app that provide insights on the Vancouver housing market and lets you know how long it would take you to afford one. Created for BCIT QDS 2023 Hackathon.
+          </h2>
+          <div
+            class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+          >
+            <div
+              class="flex flex-wrap justify-center lg:justify-end"
+            >
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                React
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                JavaScript
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Next.js
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Leaflet
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Framer-motion
+              </div>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center lg:items-start lg:justify-end w-full h-full mt-4"
+          >
+            <a
+              aria-label="link to RainCheck github"
+              href="https://github.com/null-name-qds/hackathon"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+            <a
+              aria-label="link to RainCheck website"
+              href="https://qds-raincheck.vercel.app/welcome"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam ml-2"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M18.364 15.536L16.95 14.12l1.414-1.414a5 5 0 1 0-7.071-7.071L9.879 7.05 8.464 5.636 9.88 4.222a7 7 0 0 1 9.9 9.9l-1.415 1.414zm-2.828 2.828l-1.415 1.414a7 7 0 0 1-9.9-9.9l1.415-1.414L7.05 9.88l-1.414 1.414a5 5 0 1 0 7.071 7.071l1.414-1.414 1.415 1.414zm-.708-10.607l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="flex justify-center items-center text-center"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <hr
+          class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+        />
+      </div>
+      <div
+        class="flex flex-wrap-reverse lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <div
+          class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start"
+        >
+          <h1
+            class="text-2xl lg:text-4xl font-bold font-display mb-4"
+          >
+            FFSandbox
+          </h1>
+          <h2
+            class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+          >
+            FFSandbox (work in progress) is a raid planning tool for Final Fantasy XIV. Users can create and share their own raid plans with the community. Guides and resources are also available to help users plan their raids.
+          </h2>
+          <div
+            class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+          >
+            <div
+              class="flex flex-wrap justify-center lg:justify-start"
+            >
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                React
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Typescript
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Tailwindcss
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                TRPC
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                Primsa
+              </div>
+              <div
+                class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+              >
+                PostgreSQL
+              </div>
+            </div>
+          </div>
+        </div>
+        <a
+          class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:ml-4"
+          href="https://github.com/iantelli"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            alt="FFSandbox"
+            class="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 min-w-40 md:w-full rounded-lg shadow-lg"
+            src="ffsandbox.webp"
+            style="transform: none;"
+          />
+        </a>
+      </div>
+      <div
+        class="flex justify-center items-center text-center"
+        style="opacity: 0; transform: translateY(50px) translateZ(0);"
+      >
+        <hr
+          class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+        />
+      </div>
+      <div
+        class="flex flex-wrap lg:flex-nowrap justify-between items-center md:mx-24 mt-14 md:mt-24"
+      >
+        <div
+          class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start w-full h-full mb-4"
+        >
+          <h1
+            class="text-2xl md:text-4xl font-bold font-display mb-4"
+            style="opacity: 0; transform: translateY(50px) translateZ(0);"
+          >
+            Wanna reach out?
+          </h1>
+          <h2
+            class="text-xl md:text-2xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+            style="opacity: 0; transform: translateY(50px) translateZ(0);"
+          >
+            If you have a project you'd like to discuss or simply want to say hello, feel free to reach out to me at any platform listed below. I'm always interested in meeting new people and exploring exciting opportunities.
+          </h2>
+          <div
+            class="flex mt-4 space-x-4"
+            style="opacity: 0; transform: translateY(50px) translateZ(0);"
+          >
+            <a
+              aria-label="link to iantelli mail"
+              href="mailto:iantelli@iantelli.com"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm9.06 8.683L5.648 6.238 4.353 7.762l7.72 6.555 7.581-6.56-1.308-1.513-6.285 5.439z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+            <a
+              aria-label="link to iantelli discord"
+              href="https://discord.com/users/155481915036532736"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M10.076 11c.6 0 1.086.45 1.075 1 0 .55-.474 1-1.075 1C9.486 13 9 12.55 9 12s.475-1 1.076-1zm3.848 0c.601 0 1.076.45 1.076 1s-.475 1-1.076 1c-.59 0-1.075-.45-1.075-1s.474-1 1.075-1zm4.967-9C20.054 2 21 2.966 21 4.163V23l-2.211-1.995-1.245-1.176-1.317-1.25.546 1.943H5.109C3.946 20.522 3 19.556 3 18.359V4.163C3 2.966 3.946 2 5.109 2H18.89zm-3.97 13.713c2.273-.073 3.148-1.596 3.148-1.596 0-3.381-1.482-6.122-1.482-6.122-1.48-1.133-2.89-1.102-2.89-1.102l-.144.168c1.749.546 2.561 1.334 2.561 1.334a8.263 8.263 0 0 0-3.096-1.008 8.527 8.527 0 0 0-2.077.02c-.062 0-.114.011-.175.021-.36.032-1.235.168-2.335.662-.38.178-.607.305-.607.305s.854-.83 2.705-1.376l-.103-.126s-1.409-.031-2.89 1.103c0 0-1.481 2.74-1.481 6.121 0 0 .864 1.522 3.137 1.596 0 0 .38-.472.69-.871-1.307-.4-1.8-1.24-1.8-1.24s.102.074.287.179c.01.01.02.021.041.031.031.022.062.032.093.053.257.147.514.262.75.357.422.168.926.336 1.513.452a7.06 7.06 0 0 0 2.664.01 6.666 6.666 0 0 0 1.491-.451c.36-.137.761-.337 1.183-.62 0 0-.514.861-1.862 1.25.309.399.68.85.68.85z"
+                        fill-rule="nonzero"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+            <a
+              aria-label="link to iantelli github"
+              href="https://www.github.com/iantelli"
+              rel="noreferrer"
+              target="_blank"
+            >
+              <div
+                class="flex items-center justify-center h-auto w-auto"
+              >
+                <div>
+                  <svg
+                    class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 24 24"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g>
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="none"
+                      />
+                      <path
+                        d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                      />
+                    </g>
+                  </svg>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="flex flex-wrap lg:flex-nowrap justify-between items-center md:mx-24 mt-14 md:mt-48"
+    >
+      <div
+        class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start w-full h-full mb-4"
+      >
+        <h1
+          class="text-4xl md:text-6xl font-bold font-display mb-4"
+          style="opacity: 0; transform: translateY(50px) translateZ(0);"
+        >
+          Hello, I'm 
+          <span
+            class="text-rosePineDawn-love dark:text-rosePine-foam"
+          >
+             Ian.
+          </span>
+        </h1>
+        <h2
+          class="text-2xl md:text-4xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+          style="opacity: 0; transform: translateY(50px) translateZ(0);"
+        >
+          Full-Stack Developer
+        </h2>
+        <div
+          class="md:text-xl flex flex-col font-display text-rosePineDawn-text dark:text-rosePine-subtle mt-4"
+          style="opacity: 0; transform: translateY(50px) translateZ(0);"
+        >
+          I am an enthusiastic programmer based in Surrey, British Columbia, Canada. My strength is in creating robust and scalable web applications that provide a pleasant user experience.
+        </div>
+        <div
+          class="flex mt-4 space-x-4"
+          style="opacity: 0; transform: translateY(50px) translateZ(0);"
+        >
+          <a
+            aria-label="link to iantelli github"
+            href="https://github.com/iantelli"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+          <a
+            aria-label="link to iantelli discord"
+            href="https://discord.com/users/155481915036532736"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M10.076 11c.6 0 1.086.45 1.075 1 0 .55-.474 1-1.075 1C9.486 13 9 12.55 9 12s.475-1 1.076-1zm3.848 0c.601 0 1.076.45 1.076 1s-.475 1-1.076 1c-.59 0-1.075-.45-1.075-1s.474-1 1.075-1zm4.967-9C20.054 2 21 2.966 21 4.163V23l-2.211-1.995-1.245-1.176-1.317-1.25.546 1.943H5.109C3.946 20.522 3 19.556 3 18.359V4.163C3 2.966 3.946 2 5.109 2H18.89zm-3.97 13.713c2.273-.073 3.148-1.596 3.148-1.596 0-3.381-1.482-6.122-1.482-6.122-1.48-1.133-2.89-1.102-2.89-1.102l-.144.168c1.749.546 2.561 1.334 2.561 1.334a8.263 8.263 0 0 0-3.096-1.008 8.527 8.527 0 0 0-2.077.02c-.062 0-.114.011-.175.021-.36.032-1.235.168-2.335.662-.38.178-.607.305-.607.305s.854-.83 2.705-1.376l-.103-.126s-1.409-.031-2.89 1.103c0 0-1.481 2.74-1.481 6.121 0 0 .864 1.522 3.137 1.596 0 0 .38-.472.69-.871-1.307-.4-1.8-1.24-1.8-1.24s.102.074.287.179c.01.01.02.021.041.031.031.022.062.032.093.053.257.147.514.262.75.357.422.168.926.336 1.513.452a7.06 7.06 0 0 0 2.664.01 6.666 6.666 0 0 0 1.491-.451c.36-.137.761-.337 1.183-.62 0 0-.514.861-1.862 1.25.309.399.68.85.68.85z"
+                      fill-rule="nonzero"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+          <a
+            aria-label="link to iantelli email"
+            href="mailto:iantelli@iantelli.com"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-12 w-12 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm9.06 8.683L5.648 6.238 4.353 7.762l7.72 6.555 7.581-6.56-1.308-1.513-6.285 5.439z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div
+        class="flex justify-center lg:justify-end w-full h-full"
+      >
+        <img
+          alt="Iantelli profile picture"
+          class="rounded-full w-60 md:w-96 shadow-lg shadow-rosePineDawn-love dark:shadow-rosePine-foam"
+          src="profile.webp"
+          style="opacity: 0; transform: translateY(50px) translateZ(0);"
+        />
+      </div>
+    </div>
+    <div
+      class="flex justify-center items-center w-full h-full mt-12 md:mt-24"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <div>
+        <a
+          aria-label="link to project showcase"
+          href="#projects"
+        >
+          <div
+            class="flex items-center justify-center h-auto w-auto"
+          >
+            <svg
+              class="h-24 w-24 text-rosePineDawn-love dark:text-rosePine-foam"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <g>
+                <path
+                  d="M0 0h24v24H0z"
+                  fill="none"
+                />
+                <path
+                  d="M12 15l-4.243-4.243 1.415-1.414L12 12.172l2.828-2.829 1.415 1.414z"
+                />
+              </g>
+            </svg>
+          </div>
+        </a>
+      </div>
+    </div>
+    <h1
+      class="flex justify-center items-center text-2xl md:text-4xl font-bold font-display mt-16 md:mt-64 text-rosePineDawn-love dark:text-rosePine-foam"
+      id="projects"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      Project Showcase
+    </h1>
+    <div
+      class="flex justify-center items-center text-center"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <hr
+        class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+      />
+    </div>
+    <div
+      class="flex flex-wrap-reverse lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <div
+        class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start"
+      >
+        <h1
+          class="text-2xl lg:text-4xl font-bold font-display mb-4"
+        >
+          InterviewPal
+        </h1>
+        <h2
+          class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+        >
+          InterviewPal is a GPT-3.5 powered AI that helps you practice for your interviews. It will ask you common and relevant interview questions and give you insightful feedback on your answers.
+        </h2>
+        <div
+          class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+        >
+          <div
+            class="flex flex-wrap justify-center lg:justify-start"
+          >
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Next.js
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Typescript
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Tailwindcss
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Redis
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              OpenAI
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              GPT-3.5
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Rosepine
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex items-center justify-center lg:items-start lg:justify-start w-full h-full mt-4"
+        >
+          <a
+            aria-label="link to InterviewPal github"
+            href="https://github.com/InterviewPal/InterviewPal"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam mr-2"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+          <a
+            aria-label="link to InterviewPal live website"
+            href="https://interviewpal.vercel.app/"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M18.364 15.536L16.95 14.12l1.414-1.414a5 5 0 1 0-7.071-7.071L9.879 7.05 8.464 5.636 9.88 4.222a7 7 0 0 1 9.9 9.9l-1.415 1.414zm-2.828 2.828l-1.415 1.414a7 7 0 0 1-9.9-9.9l1.415-1.414L7.05 9.88l-1.414 1.414a5 5 0 1 0 7.071 7.071l1.414-1.414 1.415 1.414zm-.708-10.607l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <a
+        class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:ml-4"
+        href="https://interviewpal.vercel.app/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="InterviewPal"
+          class="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 min-w-40 md:w-full rounded-lg shadow-lg"
+          src="InterviewPal.webp"
+          style="transform: none;"
+        />
+      </a>
+    </div>
+    <div
+      class="flex justify-center items-center text-center"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <hr
+        class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+      />
+    </div>
+    <div
+      class="flex flex-wrap lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <a
+        class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:mr-4"
+        href="https://www.igaq.gay/homepage"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="IGAQ"
+          class="lg:grayscale lg:hover:grayscale-0 lg:transition min-w-40 md:w-full lg:duration-200 rounded-lg shadow-lg"
+          src="IGAQ.webp"
+          style="transform: none;"
+        />
+      </a>
+      <div
+        class="flex flex-col justify-center items-center text-center lg:justify-center lg:items-end lg:text-end"
+      >
+        <h1
+          class="text-2xl lg:text-4xl font-bold font-display mb-4"
+        >
+          IGAQ
+        </h1>
+        <h2
+          class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+        >
+          I Got A Queery (IGAQ) provides a safe space for the members of the LGBTQ+ community to ask questions, share stories, and read resources about all things LGBTQ+.
+        </h2>
+        <div
+          class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+        >
+          <div
+            class="flex flex-wrap justify-center lg:justify-end"
+          >
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Next.js
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Nest
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              JavaScript
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Typescript
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Neo4j
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              React
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Styled Components
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Mantine
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex items-center justify-center lg:items-start lg:justify-end w-full h-full mt-4"
+        >
+          <a
+            aria-label="link to IGAQ github"
+            href="https://github.com/IGAQ"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+          <a
+            aria-label="link to IGAQ website"
+            href="https://www.igaq.gay/homepage"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam ml-2"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M18.364 15.536L16.95 14.12l1.414-1.414a5 5 0 1 0-7.071-7.071L9.879 7.05 8.464 5.636 9.88 4.222a7 7 0 0 1 9.9 9.9l-1.415 1.414zm-2.828 2.828l-1.415 1.414a7 7 0 0 1-9.9-9.9l1.415-1.414L7.05 9.88l-1.414 1.414a5 5 0 1 0 7.071 7.071l1.414-1.414 1.415 1.414zm-.708-10.607l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex justify-center items-center text-center"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <hr
+        class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+      />
+    </div>
+    <div
+      class="flex flex-wrap-reverse lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <div
+        class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start"
+      >
+        <h1
+          class="text-2xl lg:text-4xl font-bold font-display mb-4"
+        >
+          WordGotchu
+        </h1>
+        <h2
+          class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+        >
+          WordGotchu is a Pixel styled multiplayer web platform game based on Wordle and original characters known as “Gotchus’’ that battle against each other in an arena.
+        </h2>
+        <div
+          class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+        >
+          <div
+            class="flex flex-wrap justify-center lg:justify-start"
+          >
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              JavaScript
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Node.js
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Express
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Firebase
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              HTML/CSS
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex items-center justify-center lg:items-start lg:justify-start w-full h-full mt-4"
+        >
+          <a
+            aria-label="link to WordGotchu github"
+            href="https://github.com/iantelli/word-gotchu"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam mr-2"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+          <a
+            aria-label="link to WordGotchu live website"
+            href="https://word-gotchu.up.railway.app"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M18.364 15.536L16.95 14.12l1.414-1.414a5 5 0 1 0-7.071-7.071L9.879 7.05 8.464 5.636 9.88 4.222a7 7 0 0 1 9.9 9.9l-1.415 1.414zm-2.828 2.828l-1.415 1.414a7 7 0 0 1-9.9-9.9l1.415-1.414L7.05 9.88l-1.414 1.414a5 5 0 1 0 7.071 7.071l1.414-1.414 1.415 1.414zm-.708-10.607l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+      <a
+        class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:ml-4"
+        href="https://word-gotchu.up.railway.app"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="WordGotchu"
+          class="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 min-w-40 md:w-full rounded-lg shadow-lg"
+          src="WordGotchu.webp"
+          style="transform: none;"
+        />
+      </a>
+    </div>
+    <div
+      class="flex justify-center items-center text-center"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <hr
+        class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+      />
+    </div>
+    <div
+      class="flex flex-wrap lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <a
+        class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:mr-4"
+        href="https://qds-raincheck.vercel.app/welcome"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="RainCheck"
+          class="lg:grayscale lg:hover:grayscale-0 lg:transition min-w-40 md:w-full lg:duration-200 rounded-lg shadow-lg"
+          src="Raincheck.webp"
+          style="transform: none;"
+        />
+      </a>
+      <div
+        class="flex flex-col justify-center items-center text-center lg:justify-center lg:items-end lg:text-end"
+      >
+        <h1
+          class="text-2xl lg:text-4xl font-bold font-display mb-4"
+        >
+          RainCheck
+        </h1>
+        <h2
+          class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+        >
+          RainCheck is an interactive map web app that provide insights on the Vancouver housing market and lets you know how long it would take you to afford one. Created for BCIT QDS 2023 Hackathon.
+        </h2>
+        <div
+          class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+        >
+          <div
+            class="flex flex-wrap justify-center lg:justify-end"
+          >
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              React
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              JavaScript
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Next.js
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Leaflet
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Framer-motion
+            </div>
+          </div>
+        </div>
+        <div
+          class="flex items-center justify-center lg:items-start lg:justify-end w-full h-full mt-4"
+        >
+          <a
+            aria-label="link to RainCheck github"
+            href="https://github.com/null-name-qds/hackathon"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+          <a
+            aria-label="link to RainCheck website"
+            href="https://qds-raincheck.vercel.app/welcome"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam ml-2"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M18.364 15.536L16.95 14.12l1.414-1.414a5 5 0 1 0-7.071-7.071L9.879 7.05 8.464 5.636 9.88 4.222a7 7 0 0 1 9.9 9.9l-1.415 1.414zm-2.828 2.828l-1.415 1.414a7 7 0 0 1-9.9-9.9l1.415-1.414L7.05 9.88l-1.414 1.414a5 5 0 1 0 7.071 7.071l1.414-1.414 1.415 1.414zm-.708-10.607l1.415 1.415-7.071 7.07-1.415-1.414 7.071-7.07z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex justify-center items-center text-center"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <hr
+        class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+      />
+    </div>
+    <div
+      class="flex flex-wrap-reverse lg:flex-nowrap justify-between items-center lg:mx-24 lg:my-20 lg:mt-24"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <div
+        class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start"
+      >
+        <h1
+          class="text-2xl lg:text-4xl font-bold font-display mb-4"
+        >
+          FFSandbox
+        </h1>
+        <h2
+          class="text-lg lg:text-xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+        >
+          FFSandbox (work in progress) is a raid planning tool for Final Fantasy XIV. Users can create and share their own raid plans with the community. Guides and resources are also available to help users plan their raids.
+        </h2>
+        <div
+          class="flex flex-col font-display text-rosePineDawn-subtle dark:text-rosePine-subtle mt-4"
+        >
+          <div
+            class="flex flex-wrap justify-center lg:justify-start"
+          >
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              React
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Typescript
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Tailwindcss
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              TRPC
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              Primsa
+            </div>
+            <div
+              class="bg-rosePineDawn-highlightMed dark:bg-rosePine-highlightLow text-rosePineDawn-love dark:text-rosePine-foam font-semibold rounded-lg px-2 py-1 mr-2 mb-2"
+            >
+              PostgreSQL
+            </div>
+          </div>
+        </div>
+      </div>
+      <a
+        class="flex flex-row justify-center items-center lg:justify-center lg:items-center lg:text-start w-full h-full mb-4 lg:mb-0 lg:ml-4"
+        href="https://github.com/iantelli"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          alt="FFSandbox"
+          class="lg:grayscale lg:hover:grayscale-0 lg:transition lg:duration-200 min-w-40 md:w-full rounded-lg shadow-lg"
+          src="ffsandbox.webp"
+          style="transform: none;"
+        />
+      </a>
+    </div>
+    <div
+      class="flex justify-center items-center text-center"
+      style="opacity: 0; transform: translateY(50px) translateZ(0);"
+    >
+      <hr
+        class="border-rosePineDawn-subtle dark:border-rosePine-subtle w-5/6 border-1 my-4 lg:hidden"
+      />
+    </div>
+    <div
+      class="flex flex-wrap lg:flex-nowrap justify-between items-center md:mx-24 mt-14 md:mt-24"
+    >
+      <div
+        class="flex flex-col justify-center items-center text-center lg:justify-start lg:items-start lg:text-start w-full h-full mb-4"
+      >
+        <h1
+          class="text-2xl md:text-4xl font-bold font-display mb-4"
+          style="opacity: 0; transform: translateY(50px) translateZ(0);"
+        >
+          Wanna reach out?
+        </h1>
+        <h2
+          class="text-xl md:text-2xl font-semibold text-rosePineDawn-subtle dark:text-rosePine-subtle font-display"
+          style="opacity: 0; transform: translateY(50px) translateZ(0);"
+        >
+          If you have a project you'd like to discuss or simply want to say hello, feel free to reach out to me at any platform listed below. I'm always interested in meeting new people and exploring exciting opportunities.
+        </h2>
+        <div
+          class="flex mt-4 space-x-4"
+          style="opacity: 0; transform: translateY(50px) translateZ(0);"
+        >
+          <a
+            aria-label="link to iantelli mail"
+            href="mailto:iantelli@iantelli.com"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm9.06 8.683L5.648 6.238 4.353 7.762l7.72 6.555 7.581-6.56-1.308-1.513-6.285 5.439z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+          <a
+            aria-label="link to iantelli discord"
+            href="https://discord.com/users/155481915036532736"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M10.076 11c.6 0 1.086.45 1.075 1 0 .55-.474 1-1.075 1C9.486 13 9 12.55 9 12s.475-1 1.076-1zm3.848 0c.601 0 1.076.45 1.076 1s-.475 1-1.076 1c-.59 0-1.075-.45-1.075-1s.474-1 1.075-1zm4.967-9C20.054 2 21 2.966 21 4.163V23l-2.211-1.995-1.245-1.176-1.317-1.25.546 1.943H5.109C3.946 20.522 3 19.556 3 18.359V4.163C3 2.966 3.946 2 5.109 2H18.89zm-3.97 13.713c2.273-.073 3.148-1.596 3.148-1.596 0-3.381-1.482-6.122-1.482-6.122-1.48-1.133-2.89-1.102-2.89-1.102l-.144.168c1.749.546 2.561 1.334 2.561 1.334a8.263 8.263 0 0 0-3.096-1.008 8.527 8.527 0 0 0-2.077.02c-.062 0-.114.011-.175.021-.36.032-1.235.168-2.335.662-.38.178-.607.305-.607.305s.854-.83 2.705-1.376l-.103-.126s-1.409-.031-2.89 1.103c0 0-1.481 2.74-1.481 6.121 0 0 .864 1.522 3.137 1.596 0 0 .38-.472.69-.871-1.307-.4-1.8-1.24-1.8-1.24s.102.074.287.179c.01.01.02.021.041.031.031.022.062.032.093.053.257.147.514.262.75.357.422.168.926.336 1.513.452a7.06 7.06 0 0 0 2.664.01 6.666 6.666 0 0 0 1.491-.451c.36-.137.761-.337 1.183-.62 0 0-.514.861-1.862 1.25.309.399.68.85.68.85z"
+                      fill-rule="nonzero"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+          <a
+            aria-label="link to iantelli github"
+            href="https://www.github.com/iantelli"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <div
+              class="flex items-center justify-center h-auto w-auto"
+            >
+              <div>
+                <svg
+                  class="h-8 w-8 text-rosePineDawn-love dark:text-rosePine-foam"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g>
+                    <path
+                      d="M0 0h24v24H0z"
+                      fill="none"
+                    />
+                    <path
+                      d="M12 2C6.475 2 2 6.475 2 12a9.994 9.994 0 0 0 6.838 9.488c.5.087.687-.213.687-.476 0-.237-.013-1.024-.013-1.862-2.512.463-3.162-.612-3.362-1.175-.113-.288-.6-1.175-1.025-1.413-.35-.187-.85-.65-.013-.662.788-.013 1.35.725 1.538 1.025.9 1.512 2.338 1.087 2.912.825.088-.65.35-1.087.638-1.337-2.225-.25-4.55-1.113-4.55-4.938 0-1.088.387-1.987 1.025-2.688-.1-.25-.45-1.275.1-2.65 0 0 .837-.262 2.75 1.026a9.28 9.28 0 0 1 2.5-.338c.85 0 1.7.112 2.5.337 1.912-1.3 2.75-1.024 2.75-1.024.55 1.375.2 2.4.1 2.65.637.7 1.025 1.587 1.025 2.687 0 3.838-2.337 4.688-4.562 4.938.362.312.675.912.675 1.85 0 1.337-.013 2.412-.013 2.75 0 .262.188.574.688.474A10.016 10.016 0 0 0 22 12c0-5.525-4.475-10-10-10z"
+                    />
+                  </g>
+                </svg>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
